@@ -8,3 +8,6 @@ The purpose of this repository is to have a unified place where we can find all 
 Please Feel Free to join the discussion on the Facebook group at :
 
     https://www.facebook.com/groups/DevCBeirut/
+    
+## Job posting
+If you have a job offer you would like to post/share, please fill the following [form](https://devcbeirut.typeform.com/to/Y2PiM0).
